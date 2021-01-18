@@ -1,0 +1,6 @@
+---
+displayName: Hugo static website
+description: Create static website with hugo
+tags: ["Hugo", "Golang", "centos7"]
+icon: /images/hugo.svg
+globalMemoryLimit: 1026Mi
